@@ -15,10 +15,7 @@
 
 This data analysis project aims to provide insights into the campaign performance of a Digital Marketing department of the company. The goal was to provide insights into advertising performance across different channels, products, and campaigns, and to enable the department to make data-driven decisions.
 
-[Dashboard](capture.PNG)
-
-
-
+![Dashboard](Capture.PNG)
 
 
 ### Data Sources
