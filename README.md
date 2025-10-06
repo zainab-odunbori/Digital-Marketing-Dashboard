@@ -22,7 +22,7 @@ Digital Campaign Data: The Primary dataset used for this analysis is the "Digita
 ### Tools
 
 - Excel - Data Cleaning [Download here](https:microsoft.com)
-- Power BI - Data Analysis and Creating reports
+- Power BI - Data Analysis and Creating reports [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
 
 ### Data Cleaning/Preparation
