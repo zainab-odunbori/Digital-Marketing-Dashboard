@@ -15,6 +15,12 @@
 
 This data analysis project aims to provide insights into the campaign performance of a Digital Marketing department of the company. The goal was to provide insights into advertising performance across different channels, products, and campaigns, and to enable the department to make data-driven decisions.
 
+[Dashboard](capture.PNG)
+
+
+
+
+
 ### Data Sources
 
 Digital Campaign Data: The Primary dataset used for this analysis is the "Digital Campaign Performance.xlsx" file, Containing detailed information about each campaihn channel of the company.
