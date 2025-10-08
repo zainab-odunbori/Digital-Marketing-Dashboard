@@ -5,7 +5,7 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Key Findings](#key-findings)
@@ -28,7 +28,7 @@ Digital Campaign Data: The Primary dataset used for this analysis is the "Digita
 - Power BI - Data Analysis and Creating reports [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
 
-### Data Cleaning/Preparation
+### Data Cleaning
 In the initial data preparation, we performed the following task.
 1. Data loading and inspection.
 2. Handling missing values.
